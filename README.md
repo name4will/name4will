@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @name4will
 - 👀 I’m interested in ... Systems Engineering and Software Development
-- 🌱 I’m currently learning ... Rust, Java, and C++
+- 🌱 I’m currently learning ... C#, and C++
 - 💞️ I’m looking to collaborate on ... Any console homebrew, and web projects
 - 📫 How to reach me ...
 
